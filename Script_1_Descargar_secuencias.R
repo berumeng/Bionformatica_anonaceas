@@ -24,7 +24,7 @@ if(!requireNamespace("rentrez", quietly = TRUE)) {
   install.packages("rentrez")
 }
 
-#Cargar paquetería (importante, siempre cargar paqueterías)
+#Cargar paquetería (importante, siempre cargar paqueterías), accede a secuencias del NCBI, interfaz para usar entrez
 library(rentrez)
 
 # Definir término de búsqueda: PPO en mango (nucleótidos)
