@@ -1,6 +1,6 @@
 #SCRIPT 1
 #Dr. Guillermo Berumen Varela
-#Taller de anonáceas
+#Taller Fundamentos de bioinformática
 #SCRIPT para descargar secuencias usando rentrez de nucleótidos
 #tomate 
 
